@@ -9,7 +9,7 @@ module.exports = {
     testConcurrency: 5,
     proxy: {
         url: 'http://proxy.dtc.rccad.net:3128', 
-        isHttpOnly: false
+        isHttpOnly: false,
     }
 
     // To connect visual test results to your account,
@@ -37,5 +37,5 @@ module.exports = {
         // Other mobile devices are available, including iOS.
         //{deviceName: 'Pixel 2', screenOrientation: 'portrait'},
         //{deviceName: 'Nexus 10', screenOrientation: 'landscape'},
-    ]
+    ],
 }
