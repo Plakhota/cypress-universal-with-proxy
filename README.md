@@ -1,3 +1,4 @@
+ticket 41874 
 # Applitools Example: Cypress 9 in JavaScript with the Ultrafast Grid
 
 This is the example project for the [Cypress JavaScript tutorial](https://applitools.com/tutorials/quickstart/web/cypress).
