@@ -5,6 +5,7 @@ module.exports = {
 
     // Concurrency refers to the number of visual checkpoints Applitools will perform in parallel.
     // Warning: If you have a free account, then concurrency will be limited to 1.
+    serverUrl: "https://richemonteyesapi.applitools.com/",
     testConcurrency: 5,
     proxy: {
         url: 'https://myproxy.com:443', 
