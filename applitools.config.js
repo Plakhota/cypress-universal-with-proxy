@@ -8,9 +8,7 @@ module.exports = {
     serverUrl: "https://richemonteyesapi.applitools.com/",
     testConcurrency: 5,
     proxy: {
-        url: 'https://myproxy.com:443', 
-        username: 'my_user', 
-        password: 'my_password', 
+        url: 'http://proxy.dtc.rccad.net:3128', 
         isHttpOnly: false
     }
 
